@@ -361,3 +361,4 @@ resource "aws_route53_record" "myrecord" {
     aws_instance.my_instance.public_ip,
   ]
 }
+
